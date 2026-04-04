@@ -12,7 +12,7 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="your-image-link-here" width="300"/>
+  <img src="file:///C:/Users/shashikant/Desktop/WhatsApp%20Image%202026-04-04%20at%209.37.03%20AM.jpeg" width="300"/>
 </p>
 
 ---
