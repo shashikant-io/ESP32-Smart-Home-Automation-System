@@ -25,6 +25,7 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 * 🔘 Master controls (**ALL ON / ALL OFF**)
 * 🔴 Live status indicators
 * 🌐 ESP32 hosted web server (no external app needed)
+  (Quick Responce)
 
 ---
 
@@ -104,6 +105,8 @@ const char* password = "YOUR_WIFI_PASSWORD";
 | Light 4    | GPIO 21  |
 | Water Pump | GPIO 22  |
 
+or you can can choose by your self whatever you need 
+
 ---
 
 ## 📈 Future Enhancements
@@ -113,6 +116,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 * ⏰ Scheduling & Automation
 * 📱 Dedicated Android App
 * ☁️ Cloud Integration
+* we can check electric usage
 
 ---
 
