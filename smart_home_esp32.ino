@@ -216,7 +216,10 @@ void loop() {
 
 
 
-or you can check your servo by this code 
+//or you can check your servo by this code 
+
+
+
 #include <Servo.h>
 
 Servo myServo;  // create servo object
@@ -235,4 +238,34 @@ void loop() {
   myServo.write(180); // move to 180°
   delay(1000);
 }
+
+
+//mow code to check rain sensoor //
+int rainDigitalPin = 2;   // DO pin
+int rainAnalogPin = A0;   // AO pin
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(rainDigitalPin, INPUT);
+}
+
+void loop() {
+  int digitalValue = digitalRead(rainDigitalPin);
+  int analogValue = analogRead(rainAnalogPin);
+
+  Serial.print("Digital Output: ");
+  Serial.print(digitalValue);
+  
+  Serial.print(" | Analog Value: ");
+  Serial.println(analogValue);
+
+  if (digitalValue == LOW) {
+    Serial.println("Rain Detected 🌧️");
+  } else {
+    Serial.println("No Rain ☀️");
+  }
+
+  delay(1000);
+}
+ // do connection by your self and set pin in code according to you //
 
