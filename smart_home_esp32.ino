@@ -268,4 +268,16 @@ void loop() {
   delay(1000);
 }
  // do connection by your self and set pin in code according to you //
+connect proper wire or use short wire for signals
+
+
+
+
+
+
+
+
+
+
+
 
