@@ -92,6 +92,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 * Open Serial Monitor
 * Copy ESP32 IP Address
 * Paste in browser
+* use same network
 
 ---
 
