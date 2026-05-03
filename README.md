@@ -65,7 +65,7 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 
 ---
 
-## 🔧 Installation & Setup
+## 🔧 Installation & Setup :
 
 ### 1️⃣ Clone Repository
 
@@ -142,6 +142,6 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ Support
 
-If you find this project useful, please ⭐ star the repository and share it!
+If you find this project useful, please ⭐ star the repository and share it! please ......
 
 ---
