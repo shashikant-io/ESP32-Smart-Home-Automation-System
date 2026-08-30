@@ -27,16 +27,17 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 * 🌐 ESP32 hosted web server (no external app needed)
   (Quick Responce)
 
----
+## 🔧 Hardware
 
-## 🧰 Tech Stack
+- ESP32 development board
+- Relay module for appliance control
+- Wi-Fi connectivity
+- Smart home appliances
+- Jumper wires and required sensors
 
-* **Hardware:** ESP32, Relay Module
-* **Firmware:** Arduino (C++)
-* **Networking:** WiFi (HTTP Web Server)
-* **Frontend:** HTML, CSS, JavaScript
+## 🚀 How It Works
 
----
+The ESP32 connects to Wi-Fi and hosts a web-based control interface. Users can control connected appliances in real time through the interface.
 
 ## 🔌 Hardware Components
 
