@@ -25,7 +25,6 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 * Master controls (**ALL ON / ALL OFF**)
 * Live status indicators
 * ESP32 hosted web server (no external app needed)
-  (Quick Responce)
 
 ## 🔧 Hardware
 
