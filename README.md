@@ -9,7 +9,7 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
 <p align="center">
   <img src="https://github.com/shashikant-io/ESP32-Smart-Home-Automation-System/blob/main/Smart%20Phone%20UI" width="300"/>
@@ -17,14 +17,14 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* ⚡ Real-time device control over WiFi
-* 📱 Fully responsive mobile-friendly UI
-* 🎛️ Individual device toggle (Lights & Pump)
-* 🔘 Master controls (**ALL ON / ALL OFF**)
-* 🔴 Live status indicators
-* 🌐 ESP32 hosted web server (no external app needed)
+* Real-time device control over WiFi
+* Fully responsive mobile-friendly UI
+* Individual device toggle (Lights & Pump)
+* Master controls (**ALL ON / ALL OFF**)
+* Live status indicators
+* ESP32 hosted web server (no external app needed)
   (Quick Responce)
 
 ## 🔧 Hardware
@@ -33,7 +33,7 @@ A modern IoT-based smart home automation system powered by **ESP32**, enabling r
 - Relay module for appliance control
 - Wi-Fi connectivity
 - Smart home appliances
-- Jumper wires and required sensors
+- Jumper wires and required sensors connect with safe
 
 ## 🚀 How It Works
 
